@@ -1,0 +1,18 @@
+{
+  "name": "rr-bot",
+  "version": "1.0.0",
+  "description": "Ini adalah Discord Bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "12.3.1",
+    "request": "^2.88.2",
+    "foreach-timeout": "^3.0.1",
+    "map": "^1.0.1",
+    "express": "^4.17.1",
+    "https": "^1.0.0",
+    "snekfetch": "^4.0.4"
+  }
+}
