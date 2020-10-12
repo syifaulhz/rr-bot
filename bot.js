@@ -14,7 +14,7 @@ setInterval(() => {
 const Discord = require('discord.js');
 const bot = new Discord.Client;
 
-const token = 'NzYzNDI1MzAwMzEwMTMwNjk5.X33hNw.Ec63cB6pqD1FHWSrh_RF4yTqtwU';
+const token = 'NzYzNDI1MzAwMzEwMTMwNjk5.X33hNw.1QR2dxdqPpw6XZ2mzTfs3iVbnDI';
 
 bot.on('ready', () => {
     console.log('Bot sudah online');
